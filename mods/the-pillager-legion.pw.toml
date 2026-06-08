@@ -1,0 +1,13 @@
+name = "The Pillager Legion"
+filename = "the_pillager_legion_-1.7.3-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "76a9712b00a22996bcbdbd8f605dc9a3f35e9271"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6386767
+project-id = 1044969

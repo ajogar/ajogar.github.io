@@ -1,0 +1,13 @@
+name = "Reroll Enchants"
+filename = "rerollenchants-neoforge-1.21-0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "836f8fe897697dcef5ef4bbd3451c7f1bcba796d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5656025
+project-id = 899341
