@@ -1,0 +1,13 @@
+name = "Marigolds"
+filename = "marigolds-1.0.1-1.21(.1)-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CiixC4xj/versions/jXSYKjpP/marigolds-1.0.1-1.21%28.1%29-neoforge.jar"
+hash-format = "sha512"
+hash = "0ec5a96a88944401a4ee7f98b65c9d55835c3daddb03d0629faab06e7ae9acdd84b8daa358055a6a2204a6221b09dbd053fd40b2b85813c41c39300170e7f22c"
+
+[update]
+[update.modrinth]
+mod-id = "CiixC4xj"
+version = "jXSYKjpP"

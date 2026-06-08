@@ -1,0 +1,13 @@
+name = "Monkey Banners"
+filename = "monkey_banners-1.0.0-1.21(.1).jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oiqIsXbP/versions/pxd0AjdI/monkey_banners-1.0.0-1.21%28.1%29.jar"
+hash-format = "sha512"
+hash = "4be1872bbed1ebcda032949d7adef97f93d93e2b6f3e9e65ee934723258ac46d71d54e337c17b26ddb1fdeca204b313682d65fd5ddb1576c298ab15e54db231b"
+
+[update]
+[update.modrinth]
+mod-id = "oiqIsXbP"
+version = "pxd0AjdI"

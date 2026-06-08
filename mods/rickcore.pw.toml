@@ -1,0 +1,13 @@
+name = "RickCore"
+filename = "rickcore-neoforge-1.21.1-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LPM7bcAN/versions/6vLKE0uH/rickcore-neoforge-1.21.1-1.1.0.jar"
+hash-format = "sha512"
+hash = "7c13c1383f885c7c840abd8e9a2311962c741cc3ce84a6108ba52561460d312c455d67cb008b142b64d77429595a526320a5d5f8b6afd73411bacc14ee0351fc"
+
+[update]
+[update.modrinth]
+mod-id = "LPM7bcAN"
+version = "6vLKE0uH"

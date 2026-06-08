@@ -1,0 +1,13 @@
+name = "Reroll - Enchants and Trades"
+filename = "reroll_enchants_trades-neoforge-1.21.1-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/aobNKmxE/versions/jtL07ojq/reroll_enchants_trades-neoforge-1.21.1-1.1.0.jar"
+hash-format = "sha512"
+hash = "bf360751a61eb4aa35694b13415c87dede6e46a9911d1b50a4874d0408479e0b43f37950fe2c6e71dc01871d2a0e5f82e963940a608d6f261ee6bd8d1a628043"
+
+[update]
+[update.modrinth]
+mod-id = "aobNKmxE"
+version = "jtL07ojq"
