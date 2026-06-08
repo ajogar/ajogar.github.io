@@ -1,0 +1,16 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/abnormals-delight.pw.toml"
+hash = "8952abb250ea4f766eb08f18f3dbc5b24991de1d33a8e4adf3c24dac0a841472"
+metafile = true
+
+[[files]]
+file = "mods/blueprint.pw.toml"
+hash = "0ab9d26c800d8bfc998341bf2d34c91238dbcba1f646f2c57705c1760148cc17"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "9aab64fbec4cc794817026caf84e7d0dff14ba3892da94aa0e00d23c84560499"
+metafile = true

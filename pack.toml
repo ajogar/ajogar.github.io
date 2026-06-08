@@ -1,0 +1,13 @@
+name = "elbow modpack"
+author = "ajogar"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "9a1fe7cf8a57f7a3cbbe0ec60059dc136dcbd67deb8f763b3fc975fd6105fa17"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.233"
