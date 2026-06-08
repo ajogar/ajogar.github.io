@@ -1,0 +1,13 @@
+name = "Fishing Expansion (Fabric/Forge/NeoForge/Quilt)"
+filename = "ly-fishing-expansion-1.3.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5ecb30e1aa8ac2828df08ef85a05016f8562e0d9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7637088
+project-id = 1389352

@@ -1,0 +1,13 @@
+name = "Jungle Moai Villager"
+filename = "jungle-moai-villager-1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e2fba7c9f0ddcccf0be74388e46c84088b4bf5a8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7703774
+project-id = 1476380

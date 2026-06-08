@@ -1,0 +1,13 @@
+name = "Moai Tuff Statue"
+filename = "moai-tuff-statue-1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d13415b18de07e60279295eec721d7fad1192784"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7703812
+project-id = 1476391
