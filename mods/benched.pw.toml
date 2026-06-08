@@ -1,0 +1,13 @@
+name = "Benched"
+filename = "benched-1.2.2-neoforge-mc1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WjRy3Hb2/versions/6DOkq20I/benched-1.2.2-neoforge-mc1.21.jar"
+hash-format = "sha512"
+hash = "2f5cad0390ecaa59e38a664079d845cf3993d07889858ec1d71babdc2b869689fade2f82fbd9c855622a83e67040f349d4d998c249560d64d2e23c5f436388f1"
+
+[update]
+[update.modrinth]
+mod-id = "WjRy3Hb2"
+version = "6DOkq20I"

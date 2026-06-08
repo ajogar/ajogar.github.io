@@ -1,0 +1,13 @@
+name = "Angle Ring"
+filename = "angle_ring-2.0.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/I6jcXS5W/versions/pmx8uz1v/angle_ring-2.0.1-neoforge.jar"
+hash-format = "sha512"
+hash = "5d5b8dde6845997053519211a7533d69e85efe51f6236405b4d02f89011f609fe8091ce0283062130b8064f3386eb7aa79b989fe226669747e6163957d72cbad"
+
+[update]
+[update.modrinth]
+mod-id = "I6jcXS5W"
+version = "pmx8uz1v"

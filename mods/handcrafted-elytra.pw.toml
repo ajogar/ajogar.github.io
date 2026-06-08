@@ -1,0 +1,13 @@
+name = "Handcrafted Elytra"
+filename = "handcrafted-elytra-server-1.0.3+mc1.21-11.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5hVXcZxE/versions/xHMJ1VxR/handcrafted-elytra-server-1.0.3%2Bmc1.21-11.jar"
+hash-format = "sha512"
+hash = "4e70bbc94c97a818f163b63de668d9eacd642296dc6cb8234407449fd0afc76d886535f03b958faece335d797e9435b9556973a24179a2fb23df1a95e3987a36"
+
+[update]
+[update.modrinth]
+mod-id = "5hVXcZxE"
+version = "xHMJ1VxR"
