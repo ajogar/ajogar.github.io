@@ -1,0 +1,19 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"backpacked:backpack"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"eternal_starlight:drying_rack"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"twilightforest:acacia_drying_rack"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"eternal_starlight:rotten_flesh_jerky"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:orange_dye"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"comforts:sleeping_bag_orange"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"comforts:sleeping_bag_yellow"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:yellow_dye"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:crafting_table"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"comforts:sleeping_bag_white"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"comforts:sleeping_bag_red"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:lever"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"waystones:warp_stone"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"waystones:waystone"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"aquaculture:wooden_fillet_knife"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:leather"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

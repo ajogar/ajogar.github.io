@@ -1,0 +1,13 @@
+name = "Boss Checklist - Stellarity Compatibility"
+filename = "Boss Checklist - Stellarity Compatibility 1.21.1 1.0.0 NeoForge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2b95bcc174dbbb6a67467d35beff9d4c7ef1fc9d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7568362
+project-id = 1452214

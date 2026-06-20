@@ -1,0 +1,13 @@
+name = "Moai Pilot Villager"
+filename = "moai-pilot-villager-1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "365e1405831768b178171045c64c8aee7c7f2ff2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7693532
+project-id = 1474559

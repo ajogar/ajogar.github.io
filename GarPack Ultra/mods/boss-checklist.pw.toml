@@ -1,0 +1,13 @@
+name = "Boss Checklist"
+filename = "boss_checklist-neoforge-5.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7346afc6db848a6bf945515fb88f1182ec806b3e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7978917
+project-id = 1355708

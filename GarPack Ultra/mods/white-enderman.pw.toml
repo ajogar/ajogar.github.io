@@ -1,0 +1,13 @@
+name = "White Enderman"
+filename = "whiteenderman-neoforge-1.21.1-0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "69b6f10147ad94b64f60b601e57a4207fe57e2a7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7019677
+project-id = 1180362

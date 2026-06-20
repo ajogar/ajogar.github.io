@@ -1,0 +1,11 @@
+name = "GarPack Ultra FPS Edition"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "358aac9515a75a616fc7d24551150b2f7eef6e8ec650ca84d31d9a0cd3551484"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.233"

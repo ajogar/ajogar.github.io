@@ -1,0 +1,13 @@
+name = "Greek Villager House"
+filename = "greek_villager_house-1.0.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c39e0c735855b0a6b0a72053a314f0933969ba9c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6534258
+project-id = 1266551

@@ -1,0 +1,13 @@
+name = "Advanced Paintings"
+filename = "advanced_paintings-1.4-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "70f55b58bf7c69a3333741a424f9ea78903a097e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8264175
+project-id = 1086863

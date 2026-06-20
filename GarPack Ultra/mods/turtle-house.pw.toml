@@ -1,0 +1,13 @@
+name = "Turtle House"
+filename = "turtle_house-1.0.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "79fb73d07eaf4af13a5358356d16e2990454be41"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6486086
+project-id = 1256574

@@ -1,0 +1,13 @@
+name = "Handcrafted Elytra"
+filename = "handcrafted-elytra-server-1.0.3+mc1.21-11.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b7cf41e23afb0481be396ba4027e52b6e10b7aba"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7998658
+project-id = 1438153

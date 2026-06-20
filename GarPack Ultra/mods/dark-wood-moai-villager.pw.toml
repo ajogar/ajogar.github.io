@@ -1,0 +1,13 @@
+name = "Dark Wood Moai Villager"
+filename = "dark-wood-moai-villager-1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2737fe484ae1842384f3432c6ca1248bf2d695e5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7679733
+project-id = 1472130

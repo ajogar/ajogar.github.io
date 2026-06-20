@@ -1,0 +1,13 @@
+name = "Savanna Elephant Statue"
+filename = "savanna-elephant-statue-1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fa6e6f1382d2c0cfdcd5906a15d4516aaae03e93"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7831986
+project-id = 1498329

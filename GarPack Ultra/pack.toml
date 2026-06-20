@@ -1,0 +1,11 @@
+name = "GarPack Ultra"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "2d26d4475a94b57faa25f77d7a0442eae00ce160485733a04bcc7799d38c2a7b"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.233"

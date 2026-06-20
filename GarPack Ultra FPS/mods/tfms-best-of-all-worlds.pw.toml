@@ -1,0 +1,13 @@
+name = "TFM's Best of All Worlds (Lightsabers, Wands, Terraria, Bosses, etc.)"
+filename = "TFM's Best of All Worlds 1.2.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1798217d027385c60da3a05dadea513d6297da67"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6453617
+project-id = 981727

@@ -1,0 +1,13 @@
+name = "Warden Nether Portal"
+filename = "warden_nether_portal-1.0.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5c4b006a01d394ccfecb68e4fe06bb240d96c64d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7708472
+project-id = 1477217

@@ -1,0 +1,13 @@
+name = "Moai Andesite Statue"
+filename = "moai-andesite-statue-1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b4f0d5fc42e45a32ba610a2270e713f4d1078099"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7703417
+project-id = 1476330

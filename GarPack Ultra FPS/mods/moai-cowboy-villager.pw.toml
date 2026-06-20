@@ -1,0 +1,13 @@
+name = "Moai Cowboy Villager"
+filename = "moai-cowboy-villager-1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "61b4cc511f3cc6ea87734cdce8191be2fd93fcc2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7699148
+project-id = 1475617

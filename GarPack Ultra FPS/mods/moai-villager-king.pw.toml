@@ -1,0 +1,13 @@
+name = "Moai Villager King"
+filename = "moai-villager-king-1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "004fbe3154515411f79d7dd95001e7b9eea5926a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7679660
+project-id = 1472117

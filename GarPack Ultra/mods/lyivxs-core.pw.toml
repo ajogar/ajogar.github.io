@@ -1,0 +1,13 @@
+name = "LYIVX's Core"
+filename = "ls_core-1.1.5-NeoForge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6436e05bcb3cd1980c920de5be10d23e19ff98d5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7018760
+project-id = 1200581

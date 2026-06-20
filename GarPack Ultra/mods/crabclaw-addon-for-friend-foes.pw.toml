@@ -1,0 +1,13 @@
+name = "CrabClaw [ Addon for Friends&Foes ]"
+filename = "crabclaws-1.0.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "de9dd0473cb054883ebda6188a87905eae9ca622"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7429009
+project-id = 1422859

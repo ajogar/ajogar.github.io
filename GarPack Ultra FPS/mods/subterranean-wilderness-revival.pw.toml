@@ -1,0 +1,13 @@
+name = "Subterranean Wilderness Revival"
+filename = "subwild-neoforge-1.21.1-1.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bf6b448daa2d86aebaaadcee54598248316e112c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7975799
+project-id = 1496336
