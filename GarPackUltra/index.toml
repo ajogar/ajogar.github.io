@@ -2070,11 +2070,6 @@ hash = "c2c827d86c4612b3530a31dfd0e0aea7c99a7ff49522050383c21cf1030f6fa4"
 metafile = true
 
 [[files]]
-file = "mods/badland-moai-villager.pw.toml"
-hash = "0740fc4ba5116342879b53b3e57b21cadb7bece2d3fb1701dcb656079699dd46"
-metafile = true
-
-[[files]]
 file = "mods/baguettelib.pw.toml"
 hash = "1a52b3a6071fa86dc0854189e110e7dd6c27c0944856fee39a781f58275e1cdd"
 metafile = true
@@ -2240,11 +2235,6 @@ hash = "526b22cb24f15a13b7151937ff05ae896bb41281b72a2930fa30e6936b63bd9f"
 metafile = true
 
 [[files]]
-file = "mods/create-aeronautics.pw.toml"
-hash = "59beba57945e374108e22789e8fc32d2758174929ebd9bf17fc139956dc32e30"
-metafile = true
-
-[[files]]
 file = "mods/create-better-fps.pw.toml"
 hash = "13481b387ddbf461b1da0ff317df17beafeda05291a586ee717bac23c86a0e74"
 metafile = true
@@ -2287,11 +2277,6 @@ metafile = true
 [[files]]
 file = "mods/create-ore-excavation.pw.toml"
 hash = "cba6d7d04b6068e326445672253580520a87873fc1065f7682984a9b9d91deb5"
-metafile = true
-
-[[files]]
-file = "mods/create-slice-and-dice-growth-accelerator.pw.toml"
-hash = "26440faed74bd5f5d08aa68240e56bbd66d3d93c3b0c790c19f82b40fe3fcd6f"
 metafile = true
 
 [[files]]
@@ -2345,11 +2330,6 @@ hash = "f92e7a06645e41ea1934dc420eb2772edb1708c0d71cb427baef8cf753acb934"
 metafile = true
 
 [[files]]
-file = "mods/dark-wood-moai-villager.pw.toml"
-hash = "cf9a159b5f31d0d387c9ee57d122029cbcfdadac6ecce0a559e6e8a00dc5d46c"
-metafile = true
-
-[[files]]
 file = "mods/delightful-creators-forge.pw.toml"
 hash = "b89fd1265093d422f6943efe8a7c0ec345d21f4a2cefa3b62d580d59c935c61f"
 metafile = true
@@ -2367,11 +2347,6 @@ metafile = true
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "65b3488ff2104f458ab5fa16a7a274157f5d012d7013a9c24437ae9ca6c11d55"
-metafile = true
-
-[[files]]
-file = "mods/end-moai-villager.pw.toml"
-hash = "42bb10e35d67f319a7959bed1e1fd9eda2d3434a9f9b895e251020fecb1dbd5c"
 metafile = true
 
 [[files]]
@@ -2395,11 +2370,6 @@ hash = "298f2a99e309853181e71938c2358c4b2c7c6c19137dcf6bcefb736d43ab6f65"
 metafile = true
 
 [[files]]
-file = "mods/entityculling.pw.toml"
-hash = "346f28e2ec19543a6b410bf2cf5389401bc6d1aa0189e39d07bf11d64d8bd321"
-metafile = true
-
-[[files]]
 file = "mods/environmental.pw.toml"
 hash = "75e8c187f1928bdae201c6333872374f6cacad7f346179feffc7cc2f2203cea0"
 metafile = true
@@ -2412,11 +2382,6 @@ metafile = true
 [[files]]
 file = "mods/essential-mod.pw.toml"
 hash = "043fd0305f606a5d2a5e86e973e3e5101ba5efe6209644d4ef00e249d64bae60"
-metafile = true
-
-[[files]]
-file = "mods/eternal-starlight-delight.pw.toml"
-hash = "726854316327ad613f702da697c946a37dc55a2698b2e3fe2f028f3e477938d6"
 metafile = true
 
 [[files]]
@@ -2515,11 +2480,6 @@ hash = "26211469f250c2c31a9dd9ee7fe673064c927958be9a9b8753395274cbe1ecee"
 metafile = true
 
 [[files]]
-file = "mods/ghost-moai-villager.pw.toml"
-hash = "a15fd11309098305ccd43470c10bab1c4cc9302aeb50dfd01e5604e2ea725914"
-metafile = true
-
-[[files]]
 file = "mods/giant-natural-additions.pw.toml"
 hash = "3061e345aa099ef43e98efb5e1b9ca9c3e9701187aca6cebad33b5571fe34d44"
 metafile = true
@@ -2532,11 +2492,6 @@ metafile = true
 [[files]]
 file = "mods/greek-food-a-farmers-delight-addon.pw.toml"
 hash = "0eb5e53c767afc10271b48e3e8dd2d4af156e1e84399fada9adb378d8e7d867d"
-metafile = true
-
-[[files]]
-file = "mods/greek-moai-villager.pw.toml"
-hash = "86a6fdccb0b6e17317cf6d913868ee3c1b6417b15f4ddef6ace24ee8843dc39f"
 metafile = true
 
 [[files]]
@@ -2555,11 +2510,6 @@ hash = "d47b53c797d345b76cd3626bd58ea9b35c61a1ced6c2a53423f481f0efd53f30"
 metafile = true
 
 [[files]]
-file = "mods/handcrafted-elytra.pw.toml"
-hash = "45d4ac6d663ae3233bdb398f250ce30b07a065b3e5cd8eac5b1f1fa57cd21d95"
-metafile = true
-
-[[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "d573695d37296209dc06495d359c4b283ffa6640bcfe8aa9c9b59eb420891788"
 metafile = true
@@ -2572,11 +2522,6 @@ metafile = true
 [[files]]
 file = "mods/hypertubes.pw.toml"
 hash = "ac3048de2c76da8d99d34c918540fd6db4f44245725e8a349a9a963671f2eea6"
-metafile = true
-
-[[files]]
-file = "mods/ice-moai-villager.pw.toml"
-hash = "ef38616e8a1facf8d905fa51e75c70e6610c8d3516a8fc9ba7f5e9e33c58f825"
 metafile = true
 
 [[files]]
@@ -2622,11 +2567,6 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "2adc7a51ce009ed3e7c1e0d22fd71ad2c152796d8e0ab6cda1447bf89d6404bb"
-metafile = true
-
-[[files]]
-file = "mods/jungle-moai-villager.pw.toml"
-hash = "255b8b9b60ec6d3123d2623de07e1c4e60486fa32221ebfd82e71cb674fcf79d"
 metafile = true
 
 [[files]]
@@ -2765,11 +2705,6 @@ hash = "85b0bb55b80d196b879fe6755cd7cc509f6ecd5706bb25acd43826da5335dd57"
 metafile = true
 
 [[files]]
-file = "mods/mangrove-mud-moai-statue.pw.toml"
-hash = "fc1184976c194ee382d5f41d23f79c9ba9001f792dec547c4cae2654ad6304ef"
-metafile = true
-
-[[files]]
 file = "mods/marigolds.pw.toml"
 hash = "bb08f707fd95ea8fede4349961e08801fb44af14db4c113f97c79aa1d4f672d1"
 metafile = true
@@ -2815,88 +2750,8 @@ hash = "2fb7e655ff6cd74cf4d97ce3cdb14c606e015ae3c59fa0a970deaddd990b6a80"
 metafile = true
 
 [[files]]
-file = "mods/moai-andesite-statue.pw.toml"
-hash = "25ea8ea9c81f0bf9571f15c3bec852d3132956959b4d43856f4c52568cfd889a"
-metafile = true
-
-[[files]]
-file = "mods/moai-cowboy-villager.pw.toml"
-hash = "4eff6dd0e36f905c2f581a4ebc9d5801eff469b0dc7188add24edf507e2c7af1"
-metafile = true
-
-[[files]]
-file = "mods/moai-diorite-statue.pw.toml"
-hash = "61712ee0a2625edcff80bcc325466986f8444e044471bc4a7ccc11b68e959832"
-metafile = true
-
-[[files]]
-file = "mods/moai-golem-statue.pw.toml"
-hash = "faaea3779688611d9d5818fa282bc448e730d0b30b537f2da3e8ba54ef96196c"
-metafile = true
-
-[[files]]
-file = "mods/moai-granite-statue.pw.toml"
-hash = "ef2c434ee25ee13ddb7a8b402655768972bcc03f5aa3a630d44ce3dea37c3b8a"
-metafile = true
-
-[[files]]
-file = "mods/moai-japanese-soldier-villager.pw.toml"
-hash = "8178627de4a33c5ed571a3a0133311064d73693d99907950a1f12102df3e9e88"
-metafile = true
-
-[[files]]
-file = "mods/moai-mustache-villager.pw.toml"
-hash = "5cae47cdbb7b4bec57716c838d964670fe3fbd08b33bc1e5f9d72c6bea149b06"
-metafile = true
-
-[[files]]
-file = "mods/moai-nether-statue.pw.toml"
-hash = "445cedfb8ce8d083f1f752771a8db917693549ef7d998f7e9d806ee8ac03cd4b"
-metafile = true
-
-[[files]]
-file = "mods/moai-pillager-statue.pw.toml"
-hash = "1bb0a13c52c1eb84153f0acca62759ebc2a27b22d7e86755171e150a0aa916a2"
-metafile = true
-
-[[files]]
-file = "mods/moai-pilot-villager.pw.toml"
-hash = "b813761769ade5c51ab0e275f632694cd855fc99034459faba102c32a9007c7b"
-metafile = true
-
-[[files]]
-file = "mods/moai-prismarine-king-statue.pw.toml"
-hash = "d0894246080c74c57e2fb6d8296cc5f682fd4f25f131eca27beb4f2862becb6d"
-metafile = true
-
-[[files]]
-file = "mods/moai-tuff-statue.pw.toml"
-hash = "aa9ba9d4ad682ecd9cb8f2e5b481f001534ce37e3edea136cac1da0422a8d5cc"
-metafile = true
-
-[[files]]
-file = "mods/moai-villager-king.pw.toml"
-hash = "4729dad6d6a907a264f8e54e1b8e0d6693130dc931004627a4e7171eac732786"
-metafile = true
-
-[[files]]
-file = "mods/moai-villager-statue.pw.toml"
-hash = "90d416a80c682328e752e772c26666fbab144092f5ae16f533a17181883bc1d4"
-metafile = true
-
-[[files]]
-file = "mods/moai-wandering-trader.pw.toml"
-hash = "f13fa76c94a09faaf02e9b74ed89ddcfbfa2dce93c593a9297206e976fb15f97"
-metafile = true
-
-[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "a58c1322f0d21a88b3a42627374f045fe34a0385ef6630ec516b77d73438accc"
-metafile = true
-
-[[files]]
-file = "mods/monkey-banners.pw.toml"
-hash = "367f21ea9823b74498947a394b69c469000d115d0cfac154c312de30d829b579"
 metafile = true
 
 [[files]]
@@ -2930,11 +2785,6 @@ hash = "09cf244689d9bf8b49d62966a495fe531a9f9cf2ada95d7e7cde779d0981c3f2"
 metafile = true
 
 [[files]]
-file = "mods/mrcrayfishs-furniture-mod-tools-refurbished.pw.toml"
-hash = "9e39be3df26ced3bdf643753f1cb4c2053810ea385608e5b6f5edbd9825347e2"
-metafile = true
-
-[[files]]
 file = "mods/mystical-agradditions.pw.toml"
 hash = "6f039a40753e0975d77a3d2f08a84637c57f6beae9ff4018db9ca15ab68ead25"
 metafile = true
@@ -2965,18 +2815,8 @@ hash = "55ff0b12591e858a83633b5dc788464c908375a79e4043ac11b3518a776cc358"
 metafile = true
 
 [[files]]
-file = "mods/nebulus-jungle-tree.pw.toml"
-hash = "3c3f4b9821904f701e832f10dfbcae4e94df52b15794bef8a2031b7bebd55dcf"
-metafile = true
-
-[[files]]
 file = "mods/nether-descent.pw.toml"
 hash = "d3349fa5cfd68d40f0e60caafc9326902ad9c102ded8e7d386c9380995cc4d6d"
-metafile = true
-
-[[files]]
-file = "mods/not-enough-animations.pw.toml"
-hash = "5de9db0e10c89eae874a1af537cb3738eee5e9ddaf1daa7ba96a8b3d571a2668"
 metafile = true
 
 [[files]]
@@ -3080,11 +2920,6 @@ hash = "56c47f4f4732d86a144c8c86af80411238c3ea74f6b96b0bc5174d2f20073a98"
 metafile = true
 
 [[files]]
-file = "mods/savanna-elephant-statue.pw.toml"
-hash = "bc52cbf97ba4c55444e04b24c5646ff759af44c4a89b100a1e0f0a0c248b067a"
-metafile = true
-
-[[files]]
 file = "mods/searchables.pw.toml"
 hash = "6c0fac550bb053ee2728144a28819835823dcc6d04ad7897750431fe55100e53"
 metafile = true
@@ -3107,11 +2942,6 @@ metafile = true
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "924590dd9b32e32f209e4e1986347b90355c07763e9a27dc79caa9cb12efeab5"
-metafile = true
-
-[[files]]
-file = "mods/slimes-gallery.pw.toml"
-hash = "d14c5b879e8fc38be6f786457885976f995d1bb7d569ecb1ee872c8461b56274"
 metafile = true
 
 [[files]]
@@ -3170,21 +3000,6 @@ hash = "b9d4d42709629f2d52cb9d33bedf298bbea635b53f69946f9ec2735c47dfbd83"
 metafile = true
 
 [[files]]
-file = "mods/stellarity.pw.toml"
-hash = "8659813c31f5337228bc79b4c5d96af721eb7c03af6b720cbddd6cf260dc034c"
-metafile = true
-
-[[files]]
-file = "mods/structory-towers.pw.toml"
-hash = "e74548b0dc0bb3633e122f1c36fc8a7978128f15d11cea1a9b54da4991bc1e6f"
-metafile = true
-
-[[files]]
-file = "mods/structory.pw.toml"
-hash = "2232bcc24b4b597dfd19deb3618bf8e0431d7437e978f7503f32ec59f6dd16cd"
-metafile = true
-
-[[files]]
 file = "mods/structurify.pw.toml"
 hash = "9f23f95929784227a92ddd95f59d88e4dd03501daaeee3dac55f8aaf75683232"
 metafile = true
@@ -3210,11 +3025,6 @@ hash = "d77e4dc337b6090358c1ef01b0f99a8357e5279443e0e23e511de1be865c01c9"
 metafile = true
 
 [[files]]
-file = "mods/terrabnormals.pw.toml"
-hash = "5fa2ee9bf2bc88fc6a7d591846d134bd260f814970af77a595d74623a425aa89"
-metafile = true
-
-[[files]]
 file = "mods/terralith-restoned.pw.toml"
 hash = "6453afd2db04ac742b952dc96bef53610fa89df1c93cf9c3fe926d44d461c8e0"
 metafile = true
@@ -3227,11 +3037,6 @@ metafile = true
 [[files]]
 file = "mods/terraphilic.pw.toml"
 hash = "44c66f029a953823abec5e9769e57b0b69f07b172cacbf39160f2a931d36d3e5"
-metafile = true
-
-[[files]]
-file = "mods/tfms-best-of-all-worlds.pw.toml"
-hash = "d3bb8710d916dcf5eed8ecea173ede71106ea7cefbff00ba5b763279173aa0a4"
 metafile = true
 
 [[files]]
@@ -3335,11 +3140,6 @@ hash = "61387d427f7c5bfd71df275f731384b70ae12f6b1e520ee9e232ae8c175d42bd"
 metafile = true
 
 [[files]]
-file = "mods/whisperers-jungle-temple.pw.toml"
-hash = "7dafd7da9741f2a79cda6fb3e85c249e564e3aea19a2394abf17c0a1ac0944b6"
-metafile = true
-
-[[files]]
 file = "mods/white-enderman.pw.toml"
 hash = "27f7043546ac3180394516580d6fffa73d05ce49c789dd809089bd024ca21a8e"
 metafile = true
@@ -3437,66 +3237,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/boss-refreshed.pw.toml"
 hash = "d204df07b6d6067b579c110510d25cafd3bbfa7ee3ea3386a0d8a829d114c12b"
-metafile = true
-
-[[files]]
-file = "resourcepacks/create-sophisticated-backpacks.pw.toml"
-hash = "6d6b7da245ca52c3dcfa20907de5934af51634f07319c3072b26a7f9971e1738"
-metafile = true
-
-[[files]]
-file = "resourcepacks/create-sophisticated-storages.pw.toml"
-hash = "4aa679c0f51fd71c1cb353cbc948962f4d53184a83f8db57eb2b893d94492372"
-metafile = true
-
-[[files]]
-file = "resourcepacks/fa-player-extension.pw.toml"
-hash = "fa1d7ba075806a4650ed488c13d5f0f8debfdb5b248edb0fc428ce2859baf728"
-metafile = true
-
-[[files]]
-file = "resourcepacks/fresh-animations-classic-horses.pw.toml"
-hash = "4acd343ecbeb996276847f84664e69e03559be44a95bf6a757ba2fd9b40d3edb"
-metafile = true
-
-[[files]]
-file = "resourcepacks/fresh-animations-creepers.pw.toml"
-hash = "447ccf4d9a99ed91de8f912d8a65ccb7b3407d2fceafe26f2c7b817fe9bf3986"
-metafile = true
-
-[[files]]
-file = "resourcepacks/fresh-animations-details.pw.toml"
-hash = "633d75f8d6ce7ed6953271e44965f21a28f340b02717c92f93514f84d445bb91"
-metafile = true
-
-[[files]]
-file = "resourcepacks/fresh-animations-emissive.pw.toml"
-hash = "bd23807f23fe55691a15c0006bb329c807b7d6731727f971d770854afc60110a"
-metafile = true
-
-[[files]]
-file = "resourcepacks/fresh-animations-extensions.pw.toml"
-hash = "633345333ff363fd71d17faa2bb39be6c3b1041bb1c5fdcc616827d2221c152f"
-metafile = true
-
-[[files]]
-file = "resourcepacks/fresh-animations-objects.pw.toml"
-hash = "ad40fc928a743c0a383a5dfa2a5bd8bc24b416d1adf90d1bc4f0e893046ced62"
-metafile = true
-
-[[files]]
-file = "resourcepacks/fresh-animations-quivers.pw.toml"
-hash = "9e6bfa595487cc06552c8744790e8825e4ad033d5419bd108de77aee716f2352"
-metafile = true
-
-[[files]]
-file = "resourcepacks/fresh-animations-spiders.pw.toml"
-hash = "7feedaaaca9bceee10aa26f4d56cb2e1ff99c18b204b3b2c6d196e9be40ae751"
-metafile = true
-
-[[files]]
-file = "resourcepacks/fresh-animations.pw.toml"
-hash = "da66421a2a0dcab59fc4b17705b0aae4cd88b20634ebea20b0224fee2bef8251"
 metafile = true
 
 [[files]]
