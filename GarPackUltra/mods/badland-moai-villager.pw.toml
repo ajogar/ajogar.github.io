@@ -1,0 +1,13 @@
+name = "Badland Moai Villager"
+filename = "badland-moai-villager-1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e167c2baf12c91f218fb2c8e7b15a8b004e36d6e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7682044
+project-id = 1472510

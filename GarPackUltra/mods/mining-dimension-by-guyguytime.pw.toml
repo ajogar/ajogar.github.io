@@ -1,0 +1,13 @@
+name = "Mining Dimension by GuyguyTime"
+filename = "mining_dimention_by_guyguytime-2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "317b4ee421da846ce91256262be47be04fb8d776"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7728248
+project-id = 1479923

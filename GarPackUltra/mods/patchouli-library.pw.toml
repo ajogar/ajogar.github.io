@@ -1,0 +1,13 @@
+name = "Patchouli's Library"
+filename = "patchouli_library-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "95e9067318e7657889402e1d9ecc7f639c9ae7cf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8336191
+project-id = 1500922

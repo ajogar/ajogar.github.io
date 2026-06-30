@@ -1,0 +1,13 @@
+name = "Whisperer's Jungle Temple"
+filename = "whisperers_jungle_temple-2.0.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c99e73fbbb82cd636a91bbc7eda53355bb3e7cfb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5849619
+project-id = 978752
