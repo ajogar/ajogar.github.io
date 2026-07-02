@@ -2254,7 +2254,7 @@ metafile = true
 
 [[files]]
 file = "mods/corpse-x-curios-api-compat.pw.toml"
-hash = "0dbb09999d85aa27cae3b923827245ad2e9559bb46f69736dde8f0377fd1c7e2"
+hash = "073c8410430fa1f84f4b8926ea37ce5bdcf2df764c25f44331978171311da9f2"
 metafile = true
 
 [[files]]
@@ -2303,12 +2303,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-enchantment-industry.pw.toml"
-hash = "be0036035951859b6dd8ae612acbbdd403f838c284a180459d36726ca259933d"
+hash = "35f89136e9bed113613f23c93762ee08c6a9148fca951aabfe2cccb930a993c9"
 metafile = true
 
 [[files]]
 file = "mods/create-industry.pw.toml"
-hash = "6cf57a4d0b0d2f7bc04196d22719ca676286d4c1d4435241b7fe9512313a7332"
+hash = "27ba9439d6b25314cfca911c474a9a34933dc7a25b4ee42ae3f2782f8d03b676"
 metafile = true
 
 [[files]]
@@ -2639,7 +2639,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "2adc7a51ce009ed3e7c1e0d22fd71ad2c152796d8e0ab6cda1447bf89d6404bb"
+hash = "92a698a0b99bc8e217a63efa9791dbead00af56ea416e9cffd6bacdffa37c99c"
 metafile = true
 
 [[files]]
@@ -3102,7 +3102,7 @@ metafile = true
 
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
-hash = "924590dd9b32e32f209e4e1986347b90355c07763e9a27dc79caa9cb12efeab5"
+hash = "95ac868355ac97c74762a7f5295aa618bc9f67fb6b1ab1009f6a0d9c42efeae2"
 metafile = true
 
 [[files]]
