@@ -19,3 +19,5 @@
 	pinnedBooksYOffset = -24
 	#Pinned book ids.
 	pinnedBooks = []
+	#Extra book item ids to treat as books in the open logic.
+	customBookIds = []

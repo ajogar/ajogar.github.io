@@ -1,4 +1,4 @@
-name = "GarPack Ultra"
+name = "GarPackUltra"
 author = "ajogar"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "f452e6eb8b3476cb492f489de59596f224208db0e4f231ceba248c3a1585911b"
+hash = "f16239b3e33b01e4e6b00f251563cee2edcb9991b00968fc4852f1b41f1ad774"
 
 [versions]
 minecraft = "1.21.1"
