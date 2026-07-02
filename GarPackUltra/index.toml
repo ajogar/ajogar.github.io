@@ -2347,6 +2347,26 @@ hash = "6a03201bf7f18bb34466ff062c4f6bf0c7b4911b49ab643ec3608357be084cb8"
 metafile = true
 
 [[files]]
+file = "mods/Stellarity-3.0.6.1.jar"
+hash = "71bc26dd6e698fd1adeda82b79bc954c52f4a105b6abeaef41537506ad2afca8"
+
+[[files]]
+file = "mods/Structory_26.1_v1.3.16.jar"
+hash = "2591265c9899bbb7305b4d6992e2a5fa1aff1bc691c724d3da34761b806251b7"
+
+[[files]]
+file = "mods/Structory_Towers_26.1_v1.0.16.jar"
+hash = "a9c1715219642c87d105bd944a0316c9a22cd3caf83836e21bcaaee3fd4f04e2"
+
+[[files]]
+file = "mods/TFM's Best of All Worlds 1.2.3.jar"
+hash = "232389940f6c29bea0870f26dab412c407bffc03a373c0744d25986b3e293f25"
+
+[[files]]
+file = "mods/Terrabnormals-v1.3.0 - 1.21.1.jar"
+hash = "a543df73da0be8c8e90adc52c74bc5ce9314c34fb1eb6405ea2ea37f5d866ee2"
+
+[[files]]
 file = "mods/abnormals-delight.pw.toml"
 hash = "56700c848266c1b129a324e285db6ad16ed19fc33f91aea9268659350bddeef7"
 metafile = true
@@ -2452,9 +2472,8 @@ hash = "c2c827d86c4612b3530a31dfd0e0aea7c99a7ff49522050383c21cf1030f6fa4"
 metafile = true
 
 [[files]]
-file = "mods/badland-moai-villager.pw.toml"
-hash = "0740fc4ba5116342879b53b3e57b21cadb7bece2d3fb1701dcb656079699dd46"
-metafile = true
+file = "mods/badland-moai-villager-1.4.jar"
+hash = "b5835d436ec71479d5681aa926d3d75f6e4a13528fef2a297b9e5c6a579cd472"
 
 [[files]]
 file = "mods/baguettelib.pw.toml"
@@ -2632,9 +2651,8 @@ hash = "526b22cb24f15a13b7151937ff05ae896bb41281b72a2930fa30e6936b63bd9f"
 metafile = true
 
 [[files]]
-file = "mods/create-aeronautics.pw.toml"
-hash = "59beba57945e374108e22789e8fc32d2758174929ebd9bf17fc139956dc32e30"
-metafile = true
+file = "mods/create-aeronautics-bundled-1.21.1-1.3.0.jar"
+hash = "482c90e0e6fe72f33fe7abb079e5fda581cd660ee53c38c44448a64283e1044c"
 
 [[files]]
 file = "mods/create-better-fps.pw.toml"
@@ -2679,11 +2697,6 @@ metafile = true
 [[files]]
 file = "mods/create-ore-excavation.pw.toml"
 hash = "cba6d7d04b6068e326445672253580520a87873fc1065f7682984a9b9d91deb5"
-metafile = true
-
-[[files]]
-file = "mods/create-slice-and-dice-growth-accelerator.pw.toml"
-hash = "26440faed74bd5f5d08aa68240e56bbd66d3d93c3b0c790c19f82b40fe3fcd6f"
 metafile = true
 
 [[files]]
@@ -2737,9 +2750,8 @@ hash = "f92e7a06645e41ea1934dc420eb2772edb1708c0d71cb427baef8cf753acb934"
 metafile = true
 
 [[files]]
-file = "mods/dark-wood-moai-villager.pw.toml"
-hash = "cf9a159b5f31d0d387c9ee57d122029cbcfdadac6ecce0a559e6e8a00dc5d46c"
-metafile = true
+file = "mods/dark-wood-moai-villager-1.4.jar"
+hash = "c4dfdad7e1c7da83976d97d1d236ba6a5616d4da75eb921c72f27e2bbc70da0f"
 
 [[files]]
 file = "mods/delightful-creators-forge.pw.toml"
@@ -2762,9 +2774,8 @@ hash = "65b3488ff2104f458ab5fa16a7a274157f5d012d7013a9c24437ae9ca6c11d55"
 metafile = true
 
 [[files]]
-file = "mods/end-moai-villager.pw.toml"
-hash = "42bb10e35d67f319a7959bed1e1fd9eda2d3434a9f9b895e251020fecb1dbd5c"
-metafile = true
+file = "mods/end-moai-villager-1.4.jar"
+hash = "ae898cd4319623d736f5c2fa5a2851eeef835d7e3f64671c929969f70c644a62"
 
 [[files]]
 file = "mods/end-villager-outpost.pw.toml"
@@ -2787,9 +2798,8 @@ hash = "298f2a99e309853181e71938c2358c4b2c7c6c19137dcf6bcefb736d43ab6f65"
 metafile = true
 
 [[files]]
-file = "mods/entityculling.pw.toml"
-hash = "346f28e2ec19543a6b410bf2cf5389401bc6d1aa0189e39d07bf11d64d8bd321"
-metafile = true
+file = "mods/entityculling-neoforge-1.10.5-mc1.21.1.jar"
+hash = "2eacd2bada39bf1d1ef695736646790c619c0e6cdeaf3d7e3cfc9139d26fae02"
 
 [[files]]
 file = "mods/environmental.pw.toml"
@@ -2807,14 +2817,13 @@ hash = "043fd0305f606a5d2a5e86e973e3e5101ba5efe6209644d4ef00e249d64bae60"
 metafile = true
 
 [[files]]
-file = "mods/eternal-starlight-delight.pw.toml"
-hash = "726854316327ad613f702da697c946a37dc55a2698b2e3fe2f028f3e477938d6"
-metafile = true
-
-[[files]]
 file = "mods/eternal-starlight.pw.toml"
 hash = "769276e0e7b90387491629bb0d50fea4908951a04c194800efae869ea6518e35"
 metafile = true
+
+[[files]]
+file = "mods/eternal_starlight_delight-neoforge-1.3.0.jar"
+hash = "59cf1d20ec48d4a4fb92dc57485f21b2d43d5b49f2ce1d8ebf6b7619106cb92c"
 
 [[files]]
 file = "mods/explorers-compass.pw.toml"
@@ -2887,6 +2896,10 @@ hash = "e717bb275a54a5caadaa7cf82bc34df3589f49402074adf93c31eaac43860313"
 metafile = true
 
 [[files]]
+file = "mods/furniture_mod_tools_refurbished-1.0.0-neoforge-1.21.1.jar"
+hash = "88a79070771af9aa6d4a5602418c4ffe7277b014f7c073b35520b0704f80fcfe"
+
+[[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "bf137bbe0c3d8ea34f44f471a41227eddbdb738017735aa76765b1191bc1d1e3"
 metafile = true
@@ -2907,9 +2920,8 @@ hash = "26211469f250c2c31a9dd9ee7fe673064c927958be9a9b8753395274cbe1ecee"
 metafile = true
 
 [[files]]
-file = "mods/ghost-moai-villager.pw.toml"
-hash = "a15fd11309098305ccd43470c10bab1c4cc9302aeb50dfd01e5604e2ea725914"
-metafile = true
+file = "mods/ghost-moai-villager-1.4.jar"
+hash = "67be0df0e4faf34e90ed4bb0c90e92dddf92c31c93aad7facaf411fe2bb5808b"
 
 [[files]]
 file = "mods/giant-natural-additions.pw.toml"
@@ -2927,9 +2939,8 @@ hash = "0eb5e53c767afc10271b48e3e8dd2d4af156e1e84399fada9adb378d8e7d867d"
 metafile = true
 
 [[files]]
-file = "mods/greek-moai-villager.pw.toml"
-hash = "86a6fdccb0b6e17317cf6d913868ee3c1b6417b15f4ddef6ace24ee8843dc39f"
-metafile = true
+file = "mods/greek-moai-villager-1.4.jar"
+hash = "4c0510c4e277f05954d61de2abee3637f09f6e7581745614ea35c794fac07ddd"
 
 [[files]]
 file = "mods/greek-villager-house.pw.toml"
@@ -2947,9 +2958,8 @@ hash = "d47b53c797d345b76cd3626bd58ea9b35c61a1ced6c2a53423f481f0efd53f30"
 metafile = true
 
 [[files]]
-file = "mods/handcrafted-elytra.pw.toml"
-hash = "45d4ac6d663ae3233bdb398f250ce30b07a065b3e5cd8eac5b1f1fa57cd21d95"
-metafile = true
+file = "mods/handcrafted-elytra-server-1.0.3+mc1.21-11.jar"
+hash = "eafec9d13aaceb39e6625954bc42ca0e61c7fd2acdf909a0dcb9cadf4e3feeb4"
 
 [[files]]
 file = "mods/handcrafted.pw.toml"
@@ -2967,9 +2977,8 @@ hash = "ac3048de2c76da8d99d34c918540fd6db4f44245725e8a349a9a963671f2eea6"
 metafile = true
 
 [[files]]
-file = "mods/ice-moai-villager.pw.toml"
-hash = "ef38616e8a1facf8d905fa51e75c70e6610c8d3516a8fc9ba7f5e9e33c58f825"
-metafile = true
+file = "mods/ice-moai-villager-1.4.jar"
+hash = "932f4c726dc20541c6a4ff40c080e9a9b3b8a520289010fcb7aee07beaf05e54"
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
@@ -3017,9 +3026,8 @@ hash = "2adc7a51ce009ed3e7c1e0d22fd71ad2c152796d8e0ab6cda1447bf89d6404bb"
 metafile = true
 
 [[files]]
-file = "mods/jungle-moai-villager.pw.toml"
-hash = "255b8b9b60ec6d3123d2623de07e1c4e60486fa32221ebfd82e71cb674fcf79d"
-metafile = true
+file = "mods/jungle-moai-villager-1.4.jar"
+hash = "2304799ab970ea7b2465d62c38687fb9ae64b608f8eeed33fb049c69226c9fec"
 
 [[files]]
 file = "mods/jungle-treehouse-village.pw.toml"
@@ -3157,9 +3165,8 @@ hash = "85b0bb55b80d196b879fe6755cd7cc509f6ecd5706bb25acd43826da5335dd57"
 metafile = true
 
 [[files]]
-file = "mods/mangrove-mud-moai-statue.pw.toml"
-hash = "fc1184976c194ee382d5f41d23f79c9ba9001f792dec547c4cae2654ad6304ef"
-metafile = true
+file = "mods/mangrove-mud-moai-statue-1.4.jar"
+hash = "7371b492e130dd3d10f5936b2c07a0ca223623709ec52c88bf4c87a1880ee01a"
 
 [[files]]
 file = "mods/marigolds.pw.toml"
@@ -3207,79 +3214,64 @@ hash = "2fb7e655ff6cd74cf4d97ce3cdb14c606e015ae3c59fa0a970deaddd990b6a80"
 metafile = true
 
 [[files]]
-file = "mods/moai-andesite-statue.pw.toml"
-hash = "25ea8ea9c81f0bf9571f15c3bec852d3132956959b4d43856f4c52568cfd889a"
-metafile = true
+file = "mods/moai-andesite-statue-1.4.jar"
+hash = "6632fb8235e3a5854fe624ee00262402f723418480af2ad504c0ef2c6a10b004"
 
 [[files]]
-file = "mods/moai-cowboy-villager.pw.toml"
-hash = "4eff6dd0e36f905c2f581a4ebc9d5801eff469b0dc7188add24edf507e2c7af1"
-metafile = true
+file = "mods/moai-cowboy-villager-1.4.jar"
+hash = "6d3a4b78ccab705435187d0618410addec2a8939253c8c017f62dfa1d1bbe634"
 
 [[files]]
-file = "mods/moai-diorite-statue.pw.toml"
-hash = "61712ee0a2625edcff80bcc325466986f8444e044471bc4a7ccc11b68e959832"
-metafile = true
+file = "mods/moai-diorite-statue-1.4.jar"
+hash = "6f36f1743c9e65d7fc74d5d679562b1db95d52367bb419945feceb4b61ae6a0a"
 
 [[files]]
-file = "mods/moai-golem-statue.pw.toml"
-hash = "faaea3779688611d9d5818fa282bc448e730d0b30b537f2da3e8ba54ef96196c"
-metafile = true
+file = "mods/moai-golem-statue-1.4.jar"
+hash = "62bb14e1ee20f6fe70ccf7657fe763246083ebc44e86ef9563ffc01a04ad93ae"
 
 [[files]]
-file = "mods/moai-granite-statue.pw.toml"
-hash = "ef2c434ee25ee13ddb7a8b402655768972bcc03f5aa3a630d44ce3dea37c3b8a"
-metafile = true
+file = "mods/moai-granite-statue-1.4.jar"
+hash = "fc9cb405fdc0ded4e43bf93649e417c19d6ad70ceccdc3239c32524072689457"
 
 [[files]]
-file = "mods/moai-japanese-soldier-villager.pw.toml"
-hash = "8178627de4a33c5ed571a3a0133311064d73693d99907950a1f12102df3e9e88"
-metafile = true
+file = "mods/moai-japanese-soldier-villager-1.4.jar"
+hash = "6939b6ca15c1eb3ac7f99369847f70fe85dc170674ad382b6d5a47d359f48acd"
 
 [[files]]
-file = "mods/moai-mustache-villager.pw.toml"
-hash = "5cae47cdbb7b4bec57716c838d964670fe3fbd08b33bc1e5f9d72c6bea149b06"
-metafile = true
+file = "mods/moai-mustache-villager-1.4.jar"
+hash = "4e0668b92914824d82fa2e3cdbba9e2e2776eb754b017b97fb0cf40e3c2ab72b"
 
 [[files]]
-file = "mods/moai-nether-statue.pw.toml"
-hash = "445cedfb8ce8d083f1f752771a8db917693549ef7d998f7e9d806ee8ac03cd4b"
-metafile = true
+file = "mods/moai-nether-statue-1.4.jar"
+hash = "23c4ef2b2e9dec8f067c57b92396480a1e0cd289bbad380e43c706273e3f422b"
 
 [[files]]
-file = "mods/moai-pillager-statue.pw.toml"
-hash = "1bb0a13c52c1eb84153f0acca62759ebc2a27b22d7e86755171e150a0aa916a2"
-metafile = true
+file = "mods/moai-pillager-statue-1.4.jar"
+hash = "8063b96309b1c9eebfe8fa878af1eccc1854c95980762bd16a0ae6b757c3aad9"
 
 [[files]]
-file = "mods/moai-pilot-villager.pw.toml"
-hash = "b813761769ade5c51ab0e275f632694cd855fc99034459faba102c32a9007c7b"
-metafile = true
+file = "mods/moai-pilot-villager-1.4.jar"
+hash = "e742616333f1a3ce670b8d6c62f6d7418a90eb367fbf66064e5bf02a3246ce10"
 
 [[files]]
-file = "mods/moai-prismarine-king-statue.pw.toml"
-hash = "d0894246080c74c57e2fb6d8296cc5f682fd4f25f131eca27beb4f2862becb6d"
-metafile = true
+file = "mods/moai-prismarine-statue-1.4.jar"
+hash = "99c1b5791d2d02a430344dc9a67bfc75e42dd2e8c757cabc2d1d90f0e0ef05aa"
 
 [[files]]
-file = "mods/moai-tuff-statue.pw.toml"
-hash = "aa9ba9d4ad682ecd9cb8f2e5b481f001534ce37e3edea136cac1da0422a8d5cc"
-metafile = true
+file = "mods/moai-tuff-statue-1.4.jar"
+hash = "ef6c24ea8572f375d6c53d001e08e8276a1b63750c1e0fab8ae27bd983397638"
 
 [[files]]
-file = "mods/moai-villager-king.pw.toml"
-hash = "4729dad6d6a907a264f8e54e1b8e0d6693130dc931004627a4e7171eac732786"
-metafile = true
+file = "mods/moai-villager-king-1.4.jar"
+hash = "1b1c754a6fca8e13ee83357d812728f02ce02721824f66a76929b7dc6bfad3ad"
 
 [[files]]
-file = "mods/moai-villager-statue.pw.toml"
-hash = "90d416a80c682328e752e772c26666fbab144092f5ae16f533a17181883bc1d4"
-metafile = true
+file = "mods/moai-villager-statue-1.4.jar"
+hash = "cac93a2ff476e63d13d95d4a8ea217d37a1ac8df352e3818e55c4212a310be63"
 
 [[files]]
-file = "mods/moai-wandering-trader.pw.toml"
-hash = "f13fa76c94a09faaf02e9b74ed89ddcfbfa2dce93c593a9297206e976fb15f97"
-metafile = true
+file = "mods/moai-wandering-trader-1.4.jar"
+hash = "69f7f1d1f1d6281ef7e12d2a8c21163a5f254b4d7779b5a58b972ae19ea8d269"
 
 [[files]]
 file = "mods/modernfix.pw.toml"
@@ -3287,9 +3279,8 @@ hash = "a58c1322f0d21a88b3a42627374f045fe34a0385ef6630ec516b77d73438accc"
 metafile = true
 
 [[files]]
-file = "mods/monkey-banners.pw.toml"
-hash = "367f21ea9823b74498947a394b69c469000d115d0cfac154c312de30d829b579"
-metafile = true
+file = "mods/monkey_banners-1.0.0-1.21(.1).jar"
+hash = "21dbce1e20a6525db0fdba02b23258e62b918d7104bf7fdbb0b0dadb650a4329"
 
 [[files]]
 file = "mods/more-buckets.pw.toml"
@@ -3319,11 +3310,6 @@ metafile = true
 [[files]]
 file = "mods/moyai-structures.pw.toml"
 hash = "09cf244689d9bf8b49d62966a495fe531a9f9cf2ada95d7e7cde779d0981c3f2"
-metafile = true
-
-[[files]]
-file = "mods/mrcrayfishs-furniture-mod-tools-refurbished.pw.toml"
-hash = "9e39be3df26ced3bdf643753f1cb4c2053810ea385608e5b6f5edbd9825347e2"
 metafile = true
 
 [[files]]
@@ -3357,9 +3343,8 @@ hash = "55ff0b12591e858a83633b5dc788464c908375a79e4043ac11b3518a776cc358"
 metafile = true
 
 [[files]]
-file = "mods/nebulus-jungle-tree.pw.toml"
-hash = "3c3f4b9821904f701e832f10dfbcae4e94df52b15794bef8a2031b7bebd55dcf"
-metafile = true
+file = "mods/nebulus_giant_jungle_tree-2.1-neoforge-1.21.1.jar"
+hash = "b8b41bf8d21a3a59b7ced40e50b214c04733c8d69a4996bd589f471b20ba6ae8"
 
 [[files]]
 file = "mods/nether-descent.pw.toml"
@@ -3367,9 +3352,8 @@ hash = "d3349fa5cfd68d40f0e60caafc9326902ad9c102ded8e7d386c9380995cc4d6d"
 metafile = true
 
 [[files]]
-file = "mods/not-enough-animations.pw.toml"
-hash = "5de9db0e10c89eae874a1af537cb3738eee5e9ddaf1daa7ba96a8b3d571a2668"
-metafile = true
+file = "mods/notenoughanimations-neoforge-1.12.4-mc1.21.1.jar"
+hash = "a8705202193813de291195ad6bbd03101c4ddc1ab2878aadb018ab92f903999f"
 
 [[files]]
 file = "mods/nullscape.pw.toml"
@@ -3472,9 +3456,12 @@ hash = "56c47f4f4732d86a144c8c86af80411238c3ea74f6b96b0bc5174d2f20073a98"
 metafile = true
 
 [[files]]
-file = "mods/savanna-elephant-statue.pw.toml"
-hash = "bc52cbf97ba4c55444e04b24c5646ff759af44c4a89b100a1e0f0a0c248b067a"
-metafile = true
+file = "mods/sadbettersprinklers-1.0.0.jar"
+hash = "48cf5a4706164463e37639ae7516db9e0fb35e3ef32d0a72a4baff8a30dddb93"
+
+[[files]]
+file = "mods/savanna-elephant-statue-1.4.jar"
+hash = "408178df6c3874159e920dc44a0f9ea54715443bac2cc0a80e0f1da95bac25e1"
 
 [[files]]
 file = "mods/searchables.pw.toml"
@@ -3502,9 +3489,8 @@ hash = "924590dd9b32e32f209e4e1986347b90355c07763e9a27dc79caa9cb12efeab5"
 metafile = true
 
 [[files]]
-file = "mods/slimes-gallery.pw.toml"
-hash = "d14c5b879e8fc38be6f786457885976f995d1bb7d569ecb1ee872c8461b56274"
-metafile = true
+file = "mods/slimes-gallery-1.0.6-1.21.1-multiloader.jar"
+hash = "5ff7c376938de71ccc9e3e84dcf6d5d2ebc530372bf2d771f96bbe494d7799cc"
 
 [[files]]
 file = "mods/small-cat-statues.pw.toml"
@@ -3562,21 +3548,6 @@ hash = "b9d4d42709629f2d52cb9d33bedf298bbea635b53f69946f9ec2735c47dfbd83"
 metafile = true
 
 [[files]]
-file = "mods/stellarity.pw.toml"
-hash = "8659813c31f5337228bc79b4c5d96af721eb7c03af6b720cbddd6cf260dc034c"
-metafile = true
-
-[[files]]
-file = "mods/structory-towers.pw.toml"
-hash = "e74548b0dc0bb3633e122f1c36fc8a7978128f15d11cea1a9b54da4991bc1e6f"
-metafile = true
-
-[[files]]
-file = "mods/structory.pw.toml"
-hash = "2232bcc24b4b597dfd19deb3618bf8e0431d7437e978f7503f32ec59f6dd16cd"
-metafile = true
-
-[[files]]
 file = "mods/structurify.pw.toml"
 hash = "9f23f95929784227a92ddd95f59d88e4dd03501daaeee3dac55f8aaf75683232"
 metafile = true
@@ -3602,11 +3573,6 @@ hash = "d77e4dc337b6090358c1ef01b0f99a8357e5279443e0e23e511de1be865c01c9"
 metafile = true
 
 [[files]]
-file = "mods/terrabnormals.pw.toml"
-hash = "5fa2ee9bf2bc88fc6a7d591846d134bd260f814970af77a595d74623a425aa89"
-metafile = true
-
-[[files]]
 file = "mods/terralith-restoned.pw.toml"
 hash = "6453afd2db04ac742b952dc96bef53610fa89df1c93cf9c3fe926d44d461c8e0"
 metafile = true
@@ -3619,11 +3585,6 @@ metafile = true
 [[files]]
 file = "mods/terraphilic.pw.toml"
 hash = "44c66f029a953823abec5e9769e57b0b69f07b172cacbf39160f2a931d36d3e5"
-metafile = true
-
-[[files]]
-file = "mods/tfms-best-of-all-worlds.pw.toml"
-hash = "d3bb8710d916dcf5eed8ecea173ede71106ea7cefbff00ba5b763279173aa0a4"
 metafile = true
 
 [[files]]
@@ -3727,9 +3688,8 @@ hash = "61387d427f7c5bfd71df275f731384b70ae12f6b1e520ee9e232ae8c175d42bd"
 metafile = true
 
 [[files]]
-file = "mods/whisperers-jungle-temple.pw.toml"
-hash = "7dafd7da9741f2a79cda6fb3e85c249e564e3aea19a2394abf17c0a1ac0944b6"
-metafile = true
+file = "mods/whisperers_jungle_temple-2.0.0-neoforge-1.21.1.jar"
+hash = "8bc70cda4e568a529c182dfa831f1aa2293b7c9837d7c4cb443c53db60ce6e25"
 
 [[files]]
 file = "mods/white-enderman.pw.toml"
