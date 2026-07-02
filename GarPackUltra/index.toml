@@ -2214,6 +2214,11 @@ hash = "b66c76dd9148686b0bccc5166839892b2442197504510bd9cca1306755a18ad1"
 metafile = true
 
 [[files]]
+file = "mods/continents.pw.toml"
+hash = "b11978df6a004238633895c2ca6aa231793a344ac012833e4de74b078edcc48d"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "42ffb6f5835250003da6ca3667ff751709ea295faee43b49c365b0f6c1e8f4d8"
 metafile = true
