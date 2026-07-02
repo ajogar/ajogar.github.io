@@ -2188,11 +2188,6 @@ hash = "3a0f7208a7863c154b7dbc6418c4686a7e5956444d6f9b05d9a33b0393cbafef"
 metafile = true
 
 [[files]]
-file = "mods/citadel.pw.toml"
-hash = "24709360eba177b48ec78aecaa27ba6ea5ad68e13f4e2c582c8e877fc6b49013"
-metafile = true
-
-[[files]]
 file = "mods/classic-music-disc.pw.toml"
 hash = "e5c9728413391a6e5dd5f539533476892b819b965a320394682a488e4c721dd9"
 metafile = true
