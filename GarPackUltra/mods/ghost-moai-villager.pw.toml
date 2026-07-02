@@ -1,0 +1,13 @@
+name = "Ghost Moai Villager"
+filename = "ghost-moai-villager-1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "03c95a14dd765e599f5af1bca7845b97db2c8ea5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7703618
+project-id = 1476368

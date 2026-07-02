@@ -1,0 +1,13 @@
+name = "Moai Granite Statue"
+filename = "moai-granite-statue-1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d7b9bbaba4b5f0df2069206517d816c3acd52aac"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7703695
+project-id = 1476375
