@@ -3827,68 +3827,56 @@ hash = "d1baffd370868590fcb2785146c278df5781d20994022749c53c0f9b2bffc7fc"
 metafile = true
 
 [[files]]
+file = "resourcepacks/CreateSophBackpacks.zip"
+hash = "cb63a5a33c142ce588f1df020c7d4615f57f0e312064e03d4e7901060803905d"
+
+[[files]]
+file = "resourcepacks/CreateSophiStorage.zip"
+hash = "cea881b7e94723237391ef5075afc68e15bad74d124bb98220804fed1d48e580"
+
+[[files]]
+file = "resourcepacks/FA+All_Extensions-v1.8.1.zip"
+hash = "420ad586300bb4164ff441460ae0d1b2be68933cfd9321746fcef173c0437015"
+
+[[files]]
+file = "resourcepacks/FA+Classic_Horses-v1.5.zip"
+hash = "05fd0e6005b420c2ad64dca9f45c1061f534299bc3a1478e0df9c7c46fad91b0"
+
+[[files]]
+file = "resourcepacks/FA+Creepers-v2.1.zip"
+hash = "17a3dab28d7c11a5867a513eafe8e386127431270d6c0716d283b0f600c02a36"
+
+[[files]]
+file = "resourcepacks/FA+Details-v2.2.1.zip"
+hash = "ab5b5526f0a961cea6d31e456593f0fa16448479ec588630c33f2a42590469e7"
+
+[[files]]
+file = "resourcepacks/FA+Emissive-v1.6.zip"
+hash = "4da38e4f1580da77e308a551b5bb3bf9d8926c14fd0b4bb9275c90f9c3f6b609"
+
+[[files]]
+file = "resourcepacks/FA+Objects-v2.1.2.zip"
+hash = "8e4cfc5c2a15c6066f8bd17a83bea0714d3ef3cd214c1300bea83a5e8cc1f9d2"
+
+[[files]]
+file = "resourcepacks/FA+Player-v1.1.zip"
+hash = "9ee3ae5b2fe5cd980e4041429dc66d88243f5f2420e2814e5361c746ad937f33"
+
+[[files]]
+file = "resourcepacks/FA+Quivers-v2.2.zip"
+hash = "096a26b0a0ad3054a86efb5663566e4f4696b5cc427588dabf52339bae541374"
+
+[[files]]
+file = "resourcepacks/FA+Spiders-v2.2.zip"
+hash = "3abaf22bab90efbf126e34492740efe4ca16acc4cfd372d546ea1f7779b00f0e"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1.10.4.zip"
+hash = "8e44b29560d2e7d952c0a4f77f0451e6dcb048f827189bffc712b446be8de7f2"
+
+[[files]]
 file = "resourcepacks/boss-refreshed.pw.toml"
 hash = "d204df07b6d6067b579c110510d25cafd3bbfa7ee3ea3386a0d8a829d114c12b"
-metafile = true
-
-[[files]]
-file = "resourcepacks/create-sophisticated-backpacks.pw.toml"
-hash = "6d6b7da245ca52c3dcfa20907de5934af51634f07319c3072b26a7f9971e1738"
-metafile = true
-
-[[files]]
-file = "resourcepacks/create-sophisticated-storages.pw.toml"
-hash = "4aa679c0f51fd71c1cb353cbc948962f4d53184a83f8db57eb2b893d94492372"
-metafile = true
-
-[[files]]
-file = "resourcepacks/fa-player-extension.pw.toml"
-hash = "fa1d7ba075806a4650ed488c13d5f0f8debfdb5b248edb0fc428ce2859baf728"
-metafile = true
-
-[[files]]
-file = "resourcepacks/fresh-animations-classic-horses.pw.toml"
-hash = "4acd343ecbeb996276847f84664e69e03559be44a95bf6a757ba2fd9b40d3edb"
-metafile = true
-
-[[files]]
-file = "resourcepacks/fresh-animations-creepers.pw.toml"
-hash = "447ccf4d9a99ed91de8f912d8a65ccb7b3407d2fceafe26f2c7b817fe9bf3986"
-metafile = true
-
-[[files]]
-file = "resourcepacks/fresh-animations-details.pw.toml"
-hash = "633d75f8d6ce7ed6953271e44965f21a28f340b02717c92f93514f84d445bb91"
-metafile = true
-
-[[files]]
-file = "resourcepacks/fresh-animations-emissive.pw.toml"
-hash = "bd23807f23fe55691a15c0006bb329c807b7d6731727f971d770854afc60110a"
-metafile = true
-
-[[files]]
-file = "resourcepacks/fresh-animations-extensions.pw.toml"
-hash = "633345333ff363fd71d17faa2bb39be6c3b1041bb1c5fdcc616827d2221c152f"
-metafile = true
-
-[[files]]
-file = "resourcepacks/fresh-animations-objects.pw.toml"
-hash = "ad40fc928a743c0a383a5dfa2a5bd8bc24b416d1adf90d1bc4f0e893046ced62"
-metafile = true
-
-[[files]]
-file = "resourcepacks/fresh-animations-quivers.pw.toml"
-hash = "9e6bfa595487cc06552c8744790e8825e4ad033d5419bd108de77aee716f2352"
-metafile = true
-
-[[files]]
-file = "resourcepacks/fresh-animations-spiders.pw.toml"
-hash = "7feedaaaca9bceee10aa26f4d56cb2e1ff99c18b204b3b2c6d196e9be40ae751"
-metafile = true
-
-[[files]]
-file = "resourcepacks/fresh-animations.pw.toml"
-hash = "da66421a2a0dcab59fc4b17705b0aae4cd88b20634ebea20b0224fee2bef8251"
 metafile = true
 
 [[files]]
